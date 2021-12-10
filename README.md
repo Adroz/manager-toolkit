@@ -1,5 +1,6 @@
 # Manager Toolkit
-
+[![Deploy website](https://github.com/Adroz/manager-toolkit/actions/workflows/main.yml/badge.svg)](https://github.com/Adroz/manager-toolkit/actions/workflows/main.yml)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ----
 Nik Moores, 2021
 
