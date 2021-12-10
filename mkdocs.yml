@@ -1,0 +1,20 @@
+# Project information
+site_name: Nik Moores
+site_url: https://nikmoores.com
+site_author: Nik Moores
+
+# Copyright
+copyright: Copyright &copy; 2021 - 2022 Nik Moores
+
+#Theming
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+# Plugins
+plugins:
+  - search
+  - ezlinks:
+      wikilinks: true
+    
