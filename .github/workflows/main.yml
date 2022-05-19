@@ -14,7 +14,6 @@ jobs:
           python-version: 3.x
       # Add all plugins in use
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-ezlinks-plugin 
       
       # deploy the website to the gh-pages branch
       - run: mkdocs gh-deploy --force

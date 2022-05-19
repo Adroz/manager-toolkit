@@ -6,6 +6,7 @@ This toolkit is a living wiki. The content will grow and shift as I learn from o
 
 #### Is this toolkit for you?
 I think this toolkit will work best for: 
+
 - Someone who has a specific knowledge gap they want to plug (e.g. How do I successfully guide career growth).
 - New managers looking to not make the same mistakes others have.
 - Anyone looking to create their own toolkit - just fork mine!
@@ -13,6 +14,7 @@ I think this toolkit will work best for:
 
 #### What's covered in this toolkit?
 The toolkit is broken down into three main categories, as inspired by Andrei Gridnev's [blog post](https://medium.com/swlh/a-simple-framework-for-software-engineering-management-f70b216540f2).
+
 1. People Management - hiring, career growth, performance feedback, culture, etc.
 2. Delivery Leadership - planning, assigning tasks, liaising with other teams and/or customers, status reporting, etc.
 3. Technical System Ownership - technical design, managing technical debt, security, monitoring and alerting, technology adoption, etc.
