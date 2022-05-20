@@ -1,6 +1,9 @@
 ---
 title: "Hello!"
-date: 2022-05-19
+author: Nik Moores
+author_gh_user: Adroz
+read_time: 2 min
+publish_date: 2022-05-19
 ---
 
 This simple (and quite niche) wiki is something I've been wanting to build for a while. 

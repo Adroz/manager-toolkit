@@ -6,6 +6,10 @@ site_author: Nik Moores
 # Copyright
 copyright: Copyright &copy; 2021 - 2022 Nik Moores
 
+# Repository
+repo_name: "GitHub"
+repo_url: "https://github.com/Adroz/manager-toolkit"
+
 #Theming
 theme:
   name: material
@@ -17,14 +21,23 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: blue grey
+      accent: teal
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: blue grey
+      accent: cyan
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - toc:
