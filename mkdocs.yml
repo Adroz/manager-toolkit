@@ -17,6 +17,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.indexes
+    - navigation.sections
 
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -36,13 +37,25 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-extra_css:
-  - stylesheets/extra.css
 
 markdown_extensions:
   - toc:
       toc_depth: 5
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 # Plugins
 plugins:
   - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Adroz
+      name: GitHub
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/in/nik-moores
+      name: LinkedIn
