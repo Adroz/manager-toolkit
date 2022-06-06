@@ -13,6 +13,9 @@ repo_url: "https://github.com/Adroz/manager-toolkit"
 #Theming
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/user-astronaut
+  favicon: images/user-astronaut-solid.svg
   custom_dir: overrides
   features:
     - navigation.tabs
@@ -52,6 +55,9 @@ plugins:
   - search
 
 extra:
+  analytics:
+    provider: google
+    property: G-86D7112E17
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Adroz
