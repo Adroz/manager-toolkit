@@ -1,6 +1,6 @@
 # Project information
 site_name: Nik Moores
-site_url: https://nikmoores.com
+site_url: https://www.nikmoores.com
 site_author: Nik Moores
 
 # Copyright
@@ -47,6 +47,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - footnotes
   - pymdownx.tasklist:
       custom_checkbox: true
 
